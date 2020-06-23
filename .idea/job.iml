@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/php-getting-started/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/php-getting-started/vendor/heroku/heroku-buildpack-php" />
+      <excludeFolder url="file://$MODULE_DIR$/php-getting-started/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/php-getting-started/vendor/pimple/pimple" />
+      <excludeFolder url="file://$MODULE_DIR$/php-getting-started/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/php-getting-started/vendor/silex/silex" />
+      <excludeFolder url="file://$MODULE_DIR$/php-getting-started/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/php-getting-started/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/php-getting-started/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/php-getting-started/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/php-getting-started/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/php-getting-started/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/php-getting-started/vendor/symfony/twig-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/php-getting-started/vendor/twig/twig" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

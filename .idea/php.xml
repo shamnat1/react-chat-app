@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/php-getting-started/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/php-getting-started/vendor/composer" />
+      <path value="$PROJECT_DIR$/php-getting-started/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/php-getting-started/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/php-getting-started/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/php-getting-started/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/php-getting-started/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/php-getting-started/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/php-getting-started/vendor/silex/silex" />
+      <path value="$PROJECT_DIR$/php-getting-started/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/php-getting-started/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/php-getting-started/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/php-getting-started/vendor/pimple/pimple" />
+      <path value="$PROJECT_DIR$/php-getting-started/vendor/heroku/heroku-buildpack-php" />
+    </include_path>
+  </component>
+</project>
