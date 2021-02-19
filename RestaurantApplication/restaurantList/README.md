@@ -1,7 +1,7 @@
 ## Application
 
 Express js application to list and add restaurant. Restaurants are getting added to mongodb
-
+This is the backend of Restaurant application
 
 ```bash
 $ npm install
