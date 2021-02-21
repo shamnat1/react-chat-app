@@ -14,6 +14,15 @@ const RestaurantsList = () => {
         RestaurantDataService.getAll()
             .then(response => {
                 setRestaurants(response.data);
+                if (navigator.geolocation) {
+                    navigator.geolocation.getCurrentPosition((position) => {
+                        var pos = {
+                            lat: position.coords.latitude,
+                            lng: position.coords.longitude
+                        };
+                       console.log("pos",pos);
+                    });
+                }
             })
             .catch(e => {
                 console.log(e);
