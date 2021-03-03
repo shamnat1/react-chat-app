@@ -1,0 +1,52 @@
+{
+  "name": "fileuploadapp",
+  "version": "1.0.0",
+  "description": "Uploading CSV or XML file information to mysql database",
+  "main": "index.js",
+  "jest": {
+    "verbose": true
+  },
+  "scripts": {
+    "start": "nodemon src/server.js",
+    "dev": "nodemon src/server.js",
+    "prod": "NODE_ENV=production nodemon src/server.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "node js",
+    "upload",
+    "import",
+    "download",
+    "csv",
+    "file",
+    "mysql",
+    "database",
+    "rest",
+    "api"
+  ],
+  "author": "Shamna",
+  "license": "ISC",
+  "dependencies": {
+    "@rodrigogs/mysql-events": "^0.6.0",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "chromedriver": "^88.0.0",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "fast-csv": "^4.3.6",
+    "https": "^1.0.0",
+    "multer": "^1.4.2",
+    "mysql2": "^2.2.5",
+    "nodemon": "^2.0.7",
+    "path": "^0.12.7",
+    "selenium-webdriver": "^4.0.0-beta.1",
+    "sequelize": "^6.5.0",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "mz": "^2.7.0",
+    "supertest": "^6.1.3"
+  }
+}
